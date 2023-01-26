@@ -12,3 +12,4 @@ Repo URL: https://github.com/nathannguyen0102/react-portfolio
 
 #Screenshot:
 
+<img src="1.PNG">
