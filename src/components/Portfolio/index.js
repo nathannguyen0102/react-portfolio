@@ -12,20 +12,19 @@ function Portfolio() {
       deployed: "https://nathannguyen0102.github.io/foodRecipeProject/",
     },
     {
-      name: "Connect4",
+      name: "Chat-GPT flavored Chore List",
       description:
-        "This is a connect4 game where you can save your high score and leader board",
-      image: "connect4.PNG",
+        "This is an app for parent who wants to assign chores for their kid, the kid also get reward in exchange when they complete their tasks",
+      image: "chores.PNG",
       technologies: [
-        "HTML/CSS",
+        "MERN stack",
         "JavaScript",
-        "Node.js",
-        "Handlebars.js",
-        "Express & SQL",
+        "ChatGPT",
+        "Mongo DB Atlas",
         "Heroku",
       ],
-      github: "https://github.com/nathannguyen0102/connect4",
-      deployed: "https://shielded-beyond-66940.herokuapp.com/WywSSNNV",
+      github: "https://github.com/tarrol/effective-robot/tree/jaretProfilePage",
+      deployed: "https://effective-robot.herokuapp.com",
     },
   ];
 
